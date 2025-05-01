@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello, I'm SCHMITT Ibrahim
+<a href="https://www.linkedin.com/in/ibrahim-schmitt-9b92b31b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **brahimschmitt/Brahimschmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
