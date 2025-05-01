@@ -1,6 +1,12 @@
 # Hello, I'm SCHMITT Ibrahim
 <a href="https://www.linkedin.com/in/ibrahim-schmitt-9b92b31b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## introduction
+Recent graduate in Cybersecurity with a strong interest in network security, IoT, and AI.Sharing practical projects and tools focused on securing modern IT environments.
+
+## objective
+My journey in cyber security has led me to continiously learning  and hands-on experience in securing networks, IoT systems, and AI-driven environments, while continuously learning and contributing to impactful security projects..
+
 <!--
 **brahimschmitt/Brahimschmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
